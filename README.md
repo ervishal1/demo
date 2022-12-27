@@ -8,4 +8,4 @@ Git-hub Configuration Done
 
 my Website changes !
 
-Slave Branch Created and changes
+Slave Branch Created For changes
