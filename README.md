@@ -6,8 +6,8 @@ Just Changing Something, Updates on Branch
 
 Git-hub Configuration Done
 
-my Website changes !
-
 Slave Branch Created For changes
 
 Now editing on update-readme branch
+
+Update Locally
