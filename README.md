@@ -14,5 +14,9 @@ Doing Some Tempoarary Changes
 
 i hopw this isnt much have a problem.
 
-#Updating by Purpose
+# Updating by Purpose
 Updating Readme File for Floating Tag Purpose
+
+# Getting Started
+Getting Started With this Project just Simply Clone it.
+
