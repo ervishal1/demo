@@ -20,3 +20,6 @@ Updating Readme File for Floating Tag Purpose
 # Getting Started
 Getting Started With this Project just Simply Clone it.
 
+# Changes are Made on Remote
+  But i dont want to merge with local directly
+
