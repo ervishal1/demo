@@ -22,6 +22,11 @@ Getting Started With this Project just Simply Clone it.
 
 # New Changes For Checking Fetch
 
+
 # Changes are Made on Remote
 
 But i dont want to merge with local directly
+
+# Cheking Patch
+
+    Cheking How to Use Patch
