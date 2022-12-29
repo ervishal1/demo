@@ -23,6 +23,7 @@ Updating Readme File for Floating Tag Purpose
 Getting Started With this Project just Simply Clone it.
 
 # New Changes For Checking Fetch
-# Changes are Made on Remote
-  But i dont want to merge with local directly
 
+# Changes are Made on Remote
+
+But i dont want to merge with local directly

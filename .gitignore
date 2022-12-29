@@ -3,3 +3,6 @@
 
 #Temp Files
 .tmp
+
+#Patch Files
+.patch
